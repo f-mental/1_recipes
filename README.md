@@ -11,7 +11,7 @@ I learned from previous Odin Project lessons
 
 4) strong, em tags
 
-I added simple CSS styling after the end of CSS Foundations lesson.
+I added simple CSS styling at the end of CSS Foundations lesson.
 
 Copied recipes from https://based.cooking/
 
